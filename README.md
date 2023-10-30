@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔅Computer Science student at Addis Ababa University.<br>🔅 ....more interested in Robotics and web development.<br>🔅 ........Currently working on MK Portal Project.<br><br>Technical Skill :<br>🔅 ....UX/UI Designing(Figma), Logo Designing(Adobe Illustrator ,Canva)<br>🔅 ....Front-end Web development.<br><br>Soft Skill :<br>🔅 Communication and Leadership.
+🔅Computer Science student at Addis Ababa University.<br>🔅 ....more interested in Robotics and web development.<br>🔅 ........Currently working on Neurogen AI generative AI Project.<br><br>Technical Skill :<br>🔅 ....UX/UI Designing(Figma), Logo Designing(Adobe Illustrator ,Canva)<br>🔅 ....Front-end Web development.<br><br>Soft Skill :<br>🔅 Communication and Leadership.
+
 
 
 ## 🌐 Socials:
