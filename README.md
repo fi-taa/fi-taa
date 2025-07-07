@@ -6,8 +6,16 @@ I'm a passionate full-stack developer with expertise in modern web technologies.
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express, Python, Django
 - **Database:** PostgreSQL, MongoDB
-- **DevOps:** Docker, AWS, Vercel, CI/CD
-- **Tools:** Git, VS Code, Figma, Postman
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenAI API
+- **DevOps:** Docker, GCP, Vercel, CI/CD
+- **Tools:** Git, VS Code, Figma, Postman, Jupyter Notebooks, Colabs
+
+### 🤖 AI/ML Expertise
+- **Machine Learning:** Predictive modeling, classification, regression
+- **Deep Learning:** Neural networks, computer vision, NLP
+- **AI Integration:** Building AI-powered web applications
+- **Data Science:** Data analysis, visualization, preprocessing
+- **LLMs:** Working with large language models and APIs
 
 ### 🚀 What I'm Working On
 Currently building innovative web applications and contributing to open-source projects. I'm always eager to learn new technologies and collaborate with other developers.
